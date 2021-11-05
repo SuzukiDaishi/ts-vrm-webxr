@@ -8,4 +8,4 @@ npm i
 
 # ビルド
 npm run build
-```git add 
+```
